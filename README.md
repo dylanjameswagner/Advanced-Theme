@@ -4,7 +4,9 @@ A starter theme for custom WordPress development.
 
 ## Purpose
 
-Extends the Basic theme. Intended as more robust starting point for developers new to WordPress. Custom development with Advanced begins with merging Advanced into Basic. However it is maintained as a child theme.
+Intended as robust starting point for developers new to WordPress. Builds on the functionailty of Basic.
+
+Maintained as a child theme, however, custom development with Advanced begins by merging Advanced into Basic.
 
 ## Demo
 <!--[dylanjameswagner.com/wordpress](http://dylanjameswagner.com/wordpress/)-->
