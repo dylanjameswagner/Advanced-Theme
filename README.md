@@ -1,6 +1,6 @@
 # Advanced
 
-Extends the Basic theme
+A starter theme for custom WordPress development.
 
 ## Purpose
 
