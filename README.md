@@ -9,6 +9,7 @@ Extends the Basic theme. Intended as more robust starting point for developers n
 ## Demo
 <!--[dylanjameswagner.com/wordpress](http://dylanjameswagner.com/wordpress/)-->
 <a target="_blank" href="http://dylanjameswagner.com/wordpress/">dylanjameswagner.com/wordpress</a>
+<a target="_blank" href="http://dylanjameswagner.com/wordpress/advanced/">dylanjameswagner.com/wordpress/advanced</a>
 
 ## Resources
 
